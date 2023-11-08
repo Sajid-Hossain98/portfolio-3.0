@@ -46,6 +46,16 @@
     }
   }
 
+  .slidingTextContainer {
+    position: absolute;
+    font-size: 50vh;
+    bottom: -120px;
+    white-space: nowrap;
+    color: #ffffff09;
+    width: 50%;
+    font-weight: bold;
+  }
+
   .imageContainer {
     height: 100%;
     position: absolute;
