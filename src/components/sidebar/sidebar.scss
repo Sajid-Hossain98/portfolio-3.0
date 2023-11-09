@@ -11,6 +11,7 @@
     inset: 0;
     width: 400px;
     background: white;
+    z-index: 999;
 
     .links {
       position: absolute;
@@ -29,6 +30,7 @@
   }
 
   button {
+    z-index: 999;
     width: 55px;
     height: 55px;
     border-radius: 50%;
