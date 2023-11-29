@@ -44,6 +44,7 @@
         border: 1px solid white;
         color: white;
         border-radius: 5px;
+        z-index: 2;
       }
 
       button {
@@ -52,6 +53,7 @@
         background-color: orange;
         cursor: pointer;
         font-weight: 700;
+        z-index: 2;
       }
     }
   }
